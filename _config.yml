@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Tedoni"
+baseurl:
 url: "https://Tedoni.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
