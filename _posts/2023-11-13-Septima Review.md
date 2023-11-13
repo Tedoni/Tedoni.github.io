@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Septima Review
-author: Brandon Tedoni
+author: brandontedoni
 tags: [Board Games, Mindclash, Euro]
 categories: Board Game Reviews
 ---
