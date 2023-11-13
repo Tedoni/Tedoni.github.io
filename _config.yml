@@ -4,7 +4,7 @@ url: "https://Tedoni.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: The Wayside                                    # site's title
-description:      # used by search engines
+description:  RPG and Board Game Blog    # used by search engines
 avatar: assets/img/d12.png                         # Empty for no avatar in navbar
 favicon: assets/img/d12.png                             # Icon displayed in the tab
 
